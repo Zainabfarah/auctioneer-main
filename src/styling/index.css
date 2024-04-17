@@ -1,0 +1,33 @@
+.Header{
+  height: 800px;
+  background-color: white;
+}
+
+.Header .main-card-img{
+  height: 700px;
+}
+
+.Header .centered{
+  font-family:cursive;
+  text-shadow: 3px 3px 3px black;
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  color:black;
+  
+}
+
+.text {
+ position: absolute;
+ top: 60%;
+ left: 55%;
+ transform: translate(-50%, -50%);
+ font-family:cursive;
+ color:black;
+}
+
+.info {
+  font-weight: bold;
+}
